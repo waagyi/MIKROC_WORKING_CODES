@@ -1,0 +1,29 @@
+[DeviceName]
+Value=P18F4550
+[DeviceClock]
+Value=8
+[MainUnit]
+Value=timer_interrupt_4550.c
+[DeviceFlags]
+Count=0
+[BuildType]
+bType=0
+[ProjectFiles]
+Count=1
+Value0=timer_interrupt_4550.c
+[HeaderFiles]
+Count=0
+[ObjLibFiles]
+Count=0
+[PLDFiles]
+Count=0
+[EEPROMinfo]
+isused=0
+[SearchPath]
+Count=4
+Value0=C:\Program Files\Mikroelektronika\mikroC\Defs\
+Value1=C:\Program Files\Mikroelektronika\mikroC\Uses\p18\
+Value2=D:\MICROCONTROLLER CODINGS\mikroc\
+Value3=D:\MICROCONTROLLER CODINGS\mikroc\
+[IncludePath]
+Count=0
